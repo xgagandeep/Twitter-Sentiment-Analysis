@@ -1,3 +1,10 @@
+streamlit
+joblib
+pandas
+tensorflow
+transformers
+numpy
+scikit-learn
 altair==4.2.0
 attrs==22.1.0
 backports.zoneinfo==0.2.1
