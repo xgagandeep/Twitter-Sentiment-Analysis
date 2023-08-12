@@ -47,7 +47,7 @@ six==1.16.0
 smmap==5.0.0
 streamlit==1.13.0
 streamlit-aggrid==0.3.3
-
+nltk
 matplotlib
 
 torch
