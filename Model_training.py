@@ -9,7 +9,7 @@ model = BertForSequenceClassification.from_pretrained('bert-base-uncased', num_l
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
-df = pd.read_csv('tweets100kfinal.csv')
+df = pd.read_csv('tweets100kfinalk.csv')
 X = df['text']  # Features
 y = df['target']  # Target variable
 
