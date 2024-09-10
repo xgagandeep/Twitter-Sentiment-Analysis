@@ -5,6 +5,7 @@ This repository provides a complete workflow for performing sentiment analysis o
 1. **Data Preprocessing (`Preprocessing.py`)**: Cleans and processes the tweet dataset.
 2. **Model Training (`Model_training.py`)**: Trains a BERT-based model for binary sentiment classification.
 3. **Sentiment Analysis and Visualization (`model.py`)**: Performs real-time sentiment analysis using a pre-trained model and visualizes the results with interactive charts in a Streamlit web application.
+![image](https://github.com/user-attachments/assets/25a83c9c-bcb3-4f45-b225-f77dbe3711fc)
 
 ## Table of Contents
 
@@ -93,6 +94,9 @@ The `model.py` script runs the pre-trained sentiment analysis model and generate
 - **Analysis on Weekdays**: A bar chart displaying sentiment distributions across weekdays.
 - **Word Cloud**: Displays word clouds of negative and positive tweets for the selected day of the week.
 - **Top 10 Users**: Pie charts showing users with the highest number of negative and positive tweets.
+  
+![image](https://github.com/user-attachments/assets/9b99b39f-eafc-486d-b2e6-87a35d565833)
+![image](https://github.com/user-attachments/assets/b68882ba-7433-4cd5-88bd-4f2422047da3)
 
 To run the web app locally:
 
@@ -100,7 +104,7 @@ To run the web app locally:
 streamlit run model.py
 ```
 
-The app will be accessible at `http://localhost:8501`.
+The app will be accessible at `http://localhost:8501` .
 
 ## Project Structure
 
