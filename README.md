@@ -21,7 +21,7 @@ This repository provides a complete workflow for performing sentiment analysis o
 To run this project, you need to install the required dependencies. First, clone this repository:
 
 ```bash
-git clone https://github.com/your_username/twitter-sentiment-analysis.git
+git clone https://github.com/xgagandeep/twitter-sentiment-analysis.git
 cd twitter-sentiment-analysis
 ```
 
